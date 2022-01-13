@@ -1,0 +1,18 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+  color: white;
+}
+
+body {
+  background-color: #202020;
+  padding: 1rem;
+}
+
+input,
+button {
+  background-color: white;
+  color: #202020;
+}
